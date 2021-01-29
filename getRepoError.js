@@ -78,3 +78,4 @@ resArr.sort((a, b) => (b.nbError - a.nbError));
 
 console.log(resArr[0], resArr[1], resArr[2]);
 
+//new line
